@@ -1,0 +1,6 @@
+class mul
+{
+  int a=9;
+  int b=10;
+  System.out.println("multiplication of numbers is : %d",c);
+}
